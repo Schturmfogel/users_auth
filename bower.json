@@ -1,0 +1,16 @@
+{
+  "name": "users_auth",
+  "version": "0.0.0",
+  "description": "JSON Web Toke-based user authentication (Django, Angular.JS)",
+  "authors": [
+    "Michael Ivanov"
+  ],
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
